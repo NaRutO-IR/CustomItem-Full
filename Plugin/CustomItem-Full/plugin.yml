@@ -1,0 +1,7 @@
+name: CustomItem-Full
+main: NARUTO\Main
+author: NaRutO
+version: 1.0.0
+api: 5.0.0
+depend:
+  - Customies
