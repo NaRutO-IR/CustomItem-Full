@@ -81,8 +81,10 @@
 | Version | Features | Status |
 |---------|----------|--------|
 | **V1.0.0** | 100+ items released | ✅ Available |
-| **V1.1.0** | Resource compression & optimization | 🚧 Planned |
 | **V2.0.0** | 50+ new items added | 📅 Planned |
+| **V2.1.0** | 50+ new items added | 📅 Planned |
+| **V2.2.0** | Resource compression & optimization | 📅 Planned |
+| **V2.2.1** | Separate resource pack download | 📅 Planned |
 
 ---
 
